@@ -11,7 +11,9 @@ This repository contains course information for the Data Structures Course (in J
 > Prerequisite: Computer and Information Science 3115
 > [Brooklyn College Course Description](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3130)
 
-OER Course Webpage developed in conjunction with Brooklyn College Library
+## Lecture Notes
+
+OER Course Webpage developed in conjunction with Brooklyn College Library are available at
 [https://libguides.brooklyn.cuny.edu/cisc3130](https://libguides.brooklyn.cuny.edu/cisc3130)
 
 ---
@@ -24,10 +26,10 @@ GNU GPL
 
 Inquiries can be made to:
 
-Katherine Chuang
-Lecturer, Department of Computer & Information Science
-Brooklyn College of CUNY
+Katherine Chuang\
+Lecturer, Department of Computer & Information Science\
+Brooklyn College of CUNY\
 katherine.chuang@brooklyn.cuny.edu
 
 
-[^1]: *The contents are continuously under refinement.*
+[^1]: *The contents of this respository are continuously under refinement.*
