@@ -40,7 +40,6 @@ class BodakYellow {
   String name = "Cardi";
   String[] shoes;
 
-
   /* default constructor
    * initialize first element of shoes array at index 0
    * with value "red bottoms"
@@ -69,4 +68,26 @@ class BodakYellow {
         System.out.println("I don’t wanna choose");
     } // end block 2
   }
+}
+
+class MoreItems
+{
+  public void MoreItems()
+  {
+    // 1. Create an array of Strings with 10 empty elements
+    String[] shoes = new String[10];
+    shoes[0] = "red bottoms"; // initialize first element
+    shoes[1] = "red bottoms"; // initialize second element
+    shoes[2] = "ysl"; // and so forth
+
+    System.out.println("Cardi has " + shoes[1]); // access by index
+
+    // 2. Alternatively, you can provide the all the elements at once
+    int[] myShoesCost = {
+     100, 200, 300,
+     400, 500, 600,
+     700, 800, 900, 1000
+    };
+  }
+
 }
